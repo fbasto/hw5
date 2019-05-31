@@ -1,0 +1,159 @@
+Enter Image Path: fruits/Test/Lemon/99_100.jpg: Predicted in 1.399266 seconds.
+Enter Image Path: fruits/Test/Lemon/r_185_100.jpg: Predicted in 1.362466 seconds.
+Enter Image Path: fruits/Test/Lemon/40_100.jpg: Predicted in 1.441663 seconds.
+Enter Image Path: fruits/Test/Lemon/r_192_100.jpg: Predicted in 1.351603 seconds.
+Enter Image Path: fruits/Test/Lemon/66_100.jpg: Predicted in 1.343652 seconds.
+Enter Image Path: fruits/Test/Lemon/r_32_100.jpg: Predicted in 1.324462 seconds.
+Enter Image Path: fruits/Test/Lemon/35_100.jpg: Predicted in 1.343614 seconds.
+Enter Image Path: fruits/Test/Lemon/r_175_100.jpg: Predicted in 1.312595 seconds.
+Enter Image Path: fruits/Test/Lemon/85_100.jpg: Predicted in 1.430104 seconds.
+Enter Image Path: fruits/Test/Lemon/r_2_100.jpg: Predicted in 1.412809 seconds.
+Enter Image Path: fruits/Test/Lemon/53_100.jpg: Predicted in 1.488860 seconds.
+Enter Image Path: fruits/Test/Lemon/r_215_100.jpg: Predicted in 1.512193 seconds.
+Enter Image Path: fruits/Test/Lemon/r_168_100.jpg: Predicted in 1.532546 seconds.
+Enter Image Path: fruits/Test/Lemon/r_186_100.jpg: Predicted in 1.536362 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/r_43_100.jpg: Predicted in 1.542168 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/r_5_100.jpg: Predicted in 1.509823 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/56_100.jpg: Predicted in 1.532818 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/47_100.jpg: Predicted in 1.428415 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/78_100.jpg: Predicted in 1.626815 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/r_91_100.jpg: Predicted in 1.796520 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/r_65_100.jpg: Predicted in 1.194639 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/8_100.jpg: Predicted in 1.188087 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/98_100.jpg: Predicted in 1.273677 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/57_100.jpg: Predicted in 1.337203 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/r_8_100.jpg: Predicted in 1.065449 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/r_67_100.jpg: Predicted in 1.274301 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/4_100.jpg: Predicted in 1.262422 seconds.
+Enter Image Path: fruits/Test/Apple Red 3/r_35_100.jpg: Predicted in 1.235305 seconds.
+Enter Image Path: fruits/Test/Pear Abate/r_162_100.jpg: Predicted in 1.219117 seconds.
+Enter Image Path: fruits/Test/Pear Abate/r_257_100.jpg: Predicted in 1.241848 seconds.
+Enter Image Path: fruits/Test/Pear Abate/253_100.jpg: Predicted in 1.285000 seconds.
+Enter Image Path: fruits/Test/Pear Abate/r_315_100.jpg: Predicted in 1.260248 seconds.
+Enter Image Path: fruits/Test/Pear Abate/256_100.jpg: Predicted in 1.293759 seconds.
+Enter Image Path: fruits/Test/Pear Abate/r_85_100.jpg: Predicted in 1.227567 seconds.
+Enter Image Path: fruits/Test/Pear Abate/r_88_100.jpg: Predicted in 1.131660 seconds.
+Enter Image Path: fruits/Test/Pear Abate/r_16_100.jpg: Predicted in 1.148946 seconds.
+Enter Image Path: fruits/Test/Pear Abate/269_100.jpg: Predicted in 1.093108 seconds.
+Enter Image Path: fruits/Test/Pear Abate/r_78_100.jpg: Predicted in 1.233655 seconds.
+Enter Image Path: fruits/Test/Pear Abate/r_249_100.jpg: Predicted in 1.258610 seconds.
+Enter Image Path: fruits/Test/Pear Abate/296_100.jpg: Predicted in 1.270214 seconds.
+Enter Image Path: fruits/Test/Pear Abate/259_100.jpg: Predicted in 1.231611 seconds.
+Enter Image Path: fruits/Test/Pear Abate/291_100.jpg: Predicted in 1.246620 seconds.
+Enter Image Path: fruits/Test/Pear Abate/240_100.jpg: Predicted in 1.279021 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/r_174_100.jpg: Predicted in 1.450575 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/168_100.jpg: Predicted in 1.288706 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/185_100.jpg: Predicted in 1.180795 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/r_271_100.jpg: Predicted in 1.217971 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/r_314_100.jpg: Predicted in 1.447275 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/r_154_100.jpg: Predicted in 1.353901 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/169_100.jpg: Predicted in 1.224584 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/r_279_100.jpg: Predicted in 1.345333 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/16_100.jpg: Predicted in 1.240122 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/r_286_100.jpg: Predicted in 1.152028 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/r_272_100.jpg: Predicted in 1.022476 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/303_100.jpg: Predicted in 1.028979 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/180_100.jpg: Predicted in 1.108043 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/136_100.jpg: Predicted in 1.122012 seconds.
+Enter Image Path: fruits/Test/Apple Red Delicious/r_284_100.jpg: Predicted in 1.202531 seconds.
+Enter Image Path: fruits/Test/Pear Williams/r_233_100.jpg: Predicted in 1.027291 seconds.
+Enter Image Path: fruits/Test/Pear Williams/248_100.jpg: Predicted in 1.061349 seconds.
+Enter Image Path: fruits/Test/Pear Williams/244_100.jpg: Predicted in 1.200814 seconds.
+Enter Image Path: fruits/Test/Pear Williams/r_231_100.jpg: Predicted in 1.142101 seconds.
+Enter Image Path: fruits/Test/Pear Williams/r_114_100.jpg: Predicted in 1.241659 seconds.
+Enter Image Path: fruits/Test/Pear Williams/312_100.jpg: Predicted in 1.192847 seconds.
+Enter Image Path: fruits/Test/Pear Williams/264_100.jpg: Predicted in 1.080576 seconds.
+Enter Image Path: fruits/Test/Pear Williams/282_100.jpg: Predicted in 1.016669 seconds.
+Enter Image Path: fruits/Test/Pear Williams/r_243_100.jpg: Predicted in 1.005530 seconds.
+Enter Image Path: fruits/Test/Pear Williams/309_100.jpg: Predicted in 1.006336 seconds.
+Enter Image Path: fruits/Test/Pear Williams/r_232_100.jpg: Predicted in 0.996883 seconds.
+Enter Image Path: fruits/Test/Pear Williams/239_100.jpg: Predicted in 0.994016 seconds.
+Enter Image Path: fruits/Test/Pear Williams/r_248_100.jpg: Predicted in 1.000230 seconds.
+Enter Image Path: fruits/Test/Pear Williams/287_100.jpg: Predicted in 0.991995 seconds.
+Enter Image Path: fruits/Test/Pear Williams/235_100.jpg: Predicted in 1.001516 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/31_100.jpg: Predicted in 1.015040 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/46_100.jpg: Predicted in 1.002731 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/r_197_100.jpg: Predicted in 0.992560 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/r_31_100.jpg: Predicted in 1.004931 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/r_192_100.jpg: Predicted in 1.013885 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/149_100.jpg: Predicted in 1.011333 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/r_327_100.jpg: Predicted in 1.000894 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/r_25_100.jpg: Predicted in 0.993322 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/r_325_100.jpg: Predicted in 1.007890 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/42_100.jpg: Predicted in 0.999710 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/152_100.jpg: Predicted in 0.994215 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/202_100.jpg: Predicted in 1.001455 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/177_100.jpg: Predicted in 1.005268 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/44_100.jpg: Predicted in 1.008701 seconds.
+Enter Image Path: fruits/Test/Lemon Meyer/19_100.jpg: Predicted in 1.008596 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/r_47_100.jpg: Predicted in 1.003178 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/74_100.jpg: Predicted in 0.989863 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/r_322_100.jpg: Predicted in 1.100091 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/r_90_100.jpg: Predicted in 1.012173 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/r_85_100.jpg: Predicted in 1.002567 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/77_100.jpg: Predicted in 1.013449 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/r_77_100.jpg: Predicted in 1.070189 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/8_100.jpg: Predicted in 1.010211 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/62_100.jpg: Predicted in 1.024176 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/325_100.jpg: Predicted in 1.020197 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/r_56_100.jpg: Predicted in 1.004418 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/64_100.jpg: Predicted in 1.128886 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/97_100.jpg: Predicted in 1.006237 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/r_6_100.jpg: Predicted in 0.992076 seconds.
+Enter Image Path: fruits/Test/Apple Granny Smith/55_100.jpg: Predicted in 0.986526 seconds.
+Enter Image Path: fruits/Test/Pear Kaiser/6_100.jpg: Predicted in 0.997516 seconds.
+Enter Image Path: fruits/Test/Pear Kaiser/199_100.jpg: Predicted in 0.992177 seconds.
+Enter Image Path: fruits/Test/Pear Kaiser/r_24_100.jpg: Predicted in 0.986022 seconds.
+Enter Image Path: fruits/Test/Pear Kaiser/r_198_100.jpg: Predicted in 1.037678 seconds.
+Enter Image Path: fruits/Test/Pear Kaiser/r_98_100.jpg: Predicted in 1.232724 seconds.
+Enter Image Path: fruits/Test/Pear Kaiser/138_100.jpg: Predicted in 1.048871 seconds.
+Enter Image Path: fruits/Test/Pear Kaiser/r_21_100.jpg: Predicted in 1.138740 seconds.
+Enter Image Path: fruits/Test/Pear Kaiser/r_15_100.jpg: Predicted in 0.995809 seconds.
+Enter Image Path: fruits/Test/Pear Kaiser/r_6_100.jpg: Predicted in 1.011866 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_326_100.jpg: Predicted in 0.995156 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_70_100.jpg: Predicted in 1.196466 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_61_100.jpg: Predicted in 1.119281 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/47_100.jpg: Predicted in 1.215928 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_73_100.jpg: Predicted in 1.140754 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_86_100.jpg: Predicted in 1.277510 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_32_100.jpg: Predicted in 1.279821 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/35_100.jpg: Predicted in 1.224063 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_78_100.jpg: Predicted in 1.210181 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_34_100.jpg: Predicted in 1.303867 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_58_100.jpg: Predicted in 1.220467 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_76_100.jpg: Predicted in 1.214624 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/r_7_100.jpg: Predicted in 1.211170 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/96_100.jpg: Predicted in 1.263546 seconds.
+Enter Image Path: fruits/Test/Apple Red 2/37_100.jpg: Predicted in 1.259749 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/r_71_100.jpg: Predicted in 1.150006 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/61_100.jpg: Predicted in 1.138081 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/r_99_100.jpg: Predicted in 1.257979 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/91_100.jpg: Predicted in 1.350520 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/78_100.jpg: Predicted in 1.333104 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/r_91_100.jpg: Predicted in 1.616288 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/r_65_100.jpg: Predicted in 1.312764 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/93_100.jpg: Predicted in 1.250795 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/33_100.jpg: Predicted in 1.282269 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/45_100.jpg: Predicted in 1.277295 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/58_100.jpg: Predicted in 1.306692 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/51_100.jpg: Predicted in 1.373323 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/88_100.jpg: Predicted in 1.462472 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/4_100.jpg: Predicted in 1.344961 seconds.
+Enter Image Path: fruits/Test/Apple Golden 1/3_100.jpg: Predicted in 1.548322 seconds.
+Enter Image Path: fruits/Test/Pear Monster/83_100.jpg: Predicted in 1.746797 seconds.
+Enter Image Path: fruits/Test/Pear Monster/r_185_100.jpg: Predicted in 1.628763 seconds.
+Enter Image Path: fruits/Test/Pear Monster/r_231_100.jpg: Predicted in 1.607375 seconds.
+Enter Image Path: fruits/Test/Pear Monster/r_183_100.jpg: Predicted in 1.561506 seconds.
+Enter Image Path: fruits/Test/Pear Monster/87_100.jpg: Predicted in 1.557048 seconds.
+Enter Image Path: fruits/Test/Pear Monster/89_100.jpg: Predicted in 1.595102 seconds.
+Enter Image Path: fruits/Test/Pear Monster/r_110_100.jpg: Predicted in 1.410403 seconds.
+Enter Image Path: fruits/Test/Pear Monster/r_189_100.jpg: Predicted in 1.414984 seconds.
+Enter Image Path: fruits/Test/Pear Monster/r_115_100.jpg: Predicted in 1.554358 seconds.
+Enter Image Path: fruits/Test/Pear Monster/104_100.jpg: Predicted in 1.717931 seconds.
+Enter Image Path: fruits/Test/Pear Monster/r_237_100.jpg: Predicted in 1.408260 seconds.
+Enter Image Path: fruits/Test/Pear Monster/r_191_100.jpg: Predicted in 1.254754 seconds.
+Enter Image Path: fruits/Test/Pear Monster/88_100.jpg: Predicted in 1.273147 seconds.
+Enter Image Path: fruits/Test/Pear Monster/r_205_100.jpg: Predicted in 1.250336 seconds.
+Enter Image Path: fruits/Test/Pear Monster/50_100.jpg: Predicted in 1.250850 seconds.
+Enter Image Path: fruits/Test/Pear/r_71_100.jpg: Predicted in 1.211529 seconds.
+Enter Image Path: 
